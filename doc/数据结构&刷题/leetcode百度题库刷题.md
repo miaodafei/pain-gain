@@ -57,3 +57,21 @@ dp[i] = nums[i];
 12、https://leetcode.cn/problems/edit-distance/description/?company_slug=baidu
 
 编译距离，这题原来是hard的X_X
+
+13、https://leetcode.cn/problems/compress-string-lcci/submissions/546398036/?company_slug=baidu
+
+双指针
+
+14、https://leetcode.cn/problems/sort-characters-by-frequency/description/?company_slug=baidu
+
+优先队列
+
+15、https://leetcode.cn/problems/find-all-duplicates-in-an-array/?envType=company&envId=tencent&favoriteSlug=tencent-three-months
+
+把相同数换到不同位置
+
+16、
+
+https://leetcode.cn/problems/longest-valid-parentheses/solutions/314683/zui-chang-you-xiao-gua-hao-by-leetcode-solution/?envType=company&envId=tencent&favoriteSlug=tencent-three-months
+
+栈用来做匹配，栈顶记录最后未匹配的下标
