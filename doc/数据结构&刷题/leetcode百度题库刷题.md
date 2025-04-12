@@ -75,3 +75,9 @@ dp[i] = nums[i];
 https://leetcode.cn/problems/longest-valid-parentheses/solutions/314683/zui-chang-you-xiao-gua-hao-by-leetcode-solution/?envType=company&envId=tencent&favoriteSlug=tencent-three-months
 
 栈用来做匹配，栈顶记录最后未匹配的下标
+
+17、https://leetcode.cn/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/?envType=company&envId=didi&favoriteSlug=didi-three-months
+
+带状态bfs
+
+18、分割等和子集
